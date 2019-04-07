@@ -1,4 +1,4 @@
-# RPA and UIPath On-bording Procedure
+# RPA and UIPath Onboarding Procedure
 
 ## Overview
 <p>Our goal is to provide a mechanism through which new employees acquire the necessary knowledge, skills, and behaviors to become effective Xocialive members.</p>
@@ -6,9 +6,22 @@
 <p>The perpose of this document</p>
 
 ### General overview about robotic process automation (RPA)
-    ...
+**What is RPA (Robotic Process Automation):** Automation of a computer-centric
+process using software robots.
+
+[Robotic Process Automation (RPA): how does it work?
+](https://www.youtube.com/watch?v=xW95yb6J1eU)
+
+
+RPA **Aims** to free humans of repetitive tasks by replacing them with a virtual
+workforce and enabling them to focus on judgment calls, handle exceptions and
+provide oversight.
+
 ### General overview about UIPath Platform    
-    ...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMs-nvxXzZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### How to become an RPA developer
     ...
 
@@ -79,5 +92,3 @@ Your target here is to read the publication above and practise the same programm
 11. Email Automation
 12. Debugging & Exception Handling
 13. Project Organization
-
-
