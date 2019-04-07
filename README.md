@@ -3,6 +3,8 @@
 ## Overview
 <p>Our goal is to provide a mechanism through which new employees acquire the necessary knowledge, skills, and behaviors to become effective Xocialive members.</p>
 
+![](img/RPA_Onboarding_Process_Outline.png)
+
 ### General Overview About Robotic Process Automation (RPA)
 **What is RPA (Robotic Process Automation):** Automation of a computer-centric
 process using software robots.
