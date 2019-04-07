@@ -58,6 +58,8 @@ Your target here is to read the publication above and practise the same programm
 
 ### `STEP 2` - RPA Awareness Training
 
+![](img/robot-hd-wallpaper_1053401_45.jpg)
+
 >Training overview: his Academy module is centered on RPA fundamentals - the definition of RPA, the way in which companies are exploring this technology, and the benefits that can be achieved using it. The lessons also include guidelines on selecting the appropriate processes for automation, as well as strategies for successful RPA implementations. The course comprises general information about UiPath as a company, and an overview of the UiPath RPA solution as well.
 
 **Learning goals**: Gaining a clear understanding about the RPA industry and benefits, understanding the limits and constraints of automation.
