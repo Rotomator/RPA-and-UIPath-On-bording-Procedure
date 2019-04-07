@@ -7,7 +7,7 @@
 **What is RPA (Robotic Process Automation):** Automation of a computer-centric
 process using software robots.
 
-![What Is RPA](what_is_rpa.png)
+![What Is RPA](img/what_is_rpa.png)
 
 [Robotic Process Automation (RPA): how does it work?
 ](https://www.youtube.com/watch?v=xW95yb6J1eU)
