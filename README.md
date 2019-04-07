@@ -38,6 +38,8 @@ Our goal in the technical Onbording track is to craft a mechanism through which 
 
 ### `Step 1` - General Computer Programming Skills
 
+![](img/programming.png)
+
 #### Programming Concepts By [freecodecamp](https://www.freecodecamp.org/) 
 > If you work in a software development company as a non-programmer, you may wonder what the programmers do. And you hear new buzzwords everyday. This post was written with you in mind. Whether you are a sales person, a medical doctor, attorney, a business lead, or an accountant, if you’ve ever had it in mind to learn how to code, this is a good place to start.
 
