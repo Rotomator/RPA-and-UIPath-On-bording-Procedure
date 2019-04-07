@@ -103,3 +103,73 @@ Your target here is to read the publication above and practise the same programm
 [RPA Academy](https://www.uipath.com/rpa/academy/training)
 
 >**Task duration: 9 days.**
+
+### `STEP 4` - UIPath Orchestrator Trainings
+
+> Training overview: This module presents the basic and advanced Orchestrator features and functionalities. The course includes a set of practical exercises that can be done in the free training environment.
+
+**Learning Goals**: Understanding the purpose and use of the control center - UiPath Orchestrator, understanding how to deploy and trigger a process, understanding how to provision a Robot, understanding Assets and Queues.
+
+**Agenda**:
+ 
+1. How to deploy and trigger a process
+2. How to publish a UiPath workflow
+3. How to create an environment
+4. How the job queue works, handling pending jobs, canceling and terminating jobs
+5. How to schedule jobs
+6. How the job queue works, handling pending jobs, canceling and terminating jobs
+7. How to monitor of all Robots registered to the Orchestrator
+8. How levels of error messages are communicated
+9. What are UiPath Orchestrator assets?
+10. How to store credentials in the Orchestrator
+11. What are Orchestrator queues?
+12. How to use queues to work with lists of items that are handled by multiple Robots
+13. How to add items to queues and how to get transaction items
+
+**Prerequisites**: RPA Developer Foundation Training / RPA Awareness Training
+
+[RPA Academy](https://www.uipath.com/rpa/academy/training)
+
+>**Task duration: 2 days.**
+
+
+### `STEP 5` - RPA Developer Advanced Training
+
+> Training overview: Building on top of the RPA Developer Foundation training, this course explains how to leverage all the functionalities of UiPath Studio through the means of a specially built application that simulates the production environment experience. The module focuses on a hands-on approach that follows the carefully articulated best practices which empower users to build clean and efficient automation solutions.
+
+**Learning Goals**: Understanding of the REFramework; understanding of the UiPath Best practices, ability to build an end-to-end functional and qualitative automation project.
+
+**Agenda**:
+ 
+1. Introduction to UiPAth REFramework
+2. Automation Scenario 1 - Calculate Client Security Hash
+3. Automation Scenario 2 - Generate Yearly Reports
+
+**Prerequisites**: RPA Developer Foundation Training, Orchestrator Training
+
+[RPA Academy](https://www.uipath.com/rpa/academy/training)
+
+>**Task duration: 3 days.**
+
+### `STEP 6` - RPA Developer Advanced Certification
+
+**What is the UiPath RPA Developer Advanced Certification?**
+
+The Certificate attests that the graduate has attained in-depth knowledge about the UiPath components and features. It also validates the graduate's ability to successfully automate a real-life project based on UiPath best practices and automation principles, thus being qualified to fulfill any of the key roles in an RPA Center of Excellence.
+
+**The Certification Exam Has 2 Phases:**
+
+
+* **Phase I** - Theoretical exam (Quiz)
+
+    You can take the quiz anytime. After you comply with the Legal & Payment terms, you have **90 minutes** at your disposal to answer 45 multiple answer questions, with a minimum passing score of 70%. You have three attempts to pass the quiz, otherwise a new payment will be required. Keep in mind that you have to wait 24H before attempting to take the quiz again. 
+
+* **Phase II** - Practical exam
+
+    Once you have passed your theoretical exam, you can enroll for the practical one at any time, by starting your own session, which doesn’t require any supervision. 
+
+    You have **3 h and 30 m** at your disposal to solve the exercise displayed, with a minimum passing score of 70%. Keep in mind that there are only three attempts to pass the practical exam, otherwise a new voucher will be required. Last but not least, you have to wait 24H before attempting to take the exam again.
+
+    The exam consists of one exercise, with automatic randomization enabled. Before the session ends, the user will have to upload the workflow to UiPath Certification Platform. The evaluation will be done automatically in background, based on criteria configured by UiPath. The waiting period time is 60 minutes.
+
+**You will become certified only if you pass both phases**, and will be able to view and download your certificate directly from the platform. For tracking purposes, each certificate will have a unique identification number attached. You will receive a short survey that will help us gather feedback on your certification experience before viewing your certificate. 
