@@ -75,6 +75,9 @@ Your target here is to read the publication above and practise the same programm
 >**Task duration: 1 days.**
 
 ### `STEP 3` - RPA Developer Foundation Training
+
+![](img/RPA-Developer.png)
+
 > Training overview: Dedicated to beginner-level users, the RPA Developer Foundation Training is designed to walk you through the essentials of UiPath. Covering theoretical concepts as well as hands-on exercises and quizzes, this training will enable you to build a good knowledge of UiPath features and technology.
 
 **Learning Goals**: Understanding of the basic UiPath components, features and technology.
