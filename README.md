@@ -3,11 +3,11 @@
 ## Overview
 <p>Our goal is to provide a mechanism through which new employees acquire the necessary knowledge, skills, and behaviors to become effective Xocialive members.</p>
 
-<p>The perpose of this document</p>
-
 ### General overview about robotic process automation (RPA)
 **What is RPA (Robotic Process Automation):** Automation of a computer-centric
 process using software robots.
+
+![What Is RPA](what_is_rpa.png)
 
 [Robotic Process Automation (RPA): how does it work?
 ](https://www.youtube.com/watch?v=xW95yb6J1eU)
@@ -19,20 +19,18 @@ provide oversight.
 
 ### General overview about UIPath Platform    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cMs-nvxXzZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+UiPath is a Robotic Process Automation tool which is used for repetitive business tasks automation. It is used to automate repetitive/redundant tasks and eliminates the human intervention.
 
+The platform is simple to use and has a drag and drop functionality of [activities](https://activities.uipath.com/).
 
-### How to become an RPA developer
-    ...
+UiPath Platform consists of three main components:
 
-## Get prepared for your Xocialive Journey
+* UiPath Studio
+* UiPath Robot
+* UiPath Orchestrator
 
-### How to setup your machine
-    ...
-### Tools and web services that you will use
-    ...
-### Communication channels
-    ...
+[Introducing the UiPath Enterprise RPA Platform
+](https://www.youtube.com/watch?time_continue=6&v=cMs-nvxXzZg)
 
 ## Technical Onbording track
 
