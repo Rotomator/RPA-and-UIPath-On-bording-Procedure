@@ -55,7 +55,12 @@ Recommended path: [Learn to code for free. - freecodecamp](https://www.freecodec
 
 [A Complete Beginner's Guide to Programming](https://dev.to/aspittel/a-complete-beginner-s-guide-to-programming-2ni4)
 
-Your target here is to read the publication above and practise the same programming fundamentals using VB.NET programming language as `UIPath Studio` using VB.NET for activites macro coding.  
+Your **target** here is to read the publication above and practise the same programming fundamentals using VB.NET programming language as `UIPath Studio` using VB.NET for activites macro coding.
+
+**Recommendation**
+
+We recommend using VB.NET Online Compiler like [dotnetfiddle](https://dotnetfiddle.net/).
+
 > **Task duration: 3 days.** <sub>For publication reading time plus practicing programming fundamentals.</sub>
 
 ### `STEP 2` - RPA Awareness Training
