@@ -63,6 +63,28 @@ We recommend using VB.NET Online Compiler like [dotnetfiddle](https://dotnetfidd
 
 > **Task duration: 3 days.** <sub>For publication reading time plus practicing programming fundamentals.</sub>
 
+#### `Optional Tutorial`: Get Started with Visual Basic in Visual Studio
+
+> In this tutorial for Visual Basic (VB), you'll use Visual Studio to create and run a few different console apps and explore some features of the Visual Studio integrated development environment (IDE) while you do so.
+
+[Get started with Visual Basic in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2019)
+
+> **Task duration: 1 days.** <sub>For practicing the tutorial.</sub> 
+
+#### `Optional Tutorial`: What is Source Control?
+
+> **Source control** (or **version control**) is the practice of tracking and managing changes to code. Source control management (SCM) systems provide a running history of code development and help to resolve conflicts when merging contributions from multiple sources.
+
+**Source Control Basics**
+
+Whether you are writing a simple application on your own or collaborating on a large software development project as part of a team, source control is a vital component of the development process. Source code management systems allow you to track your code change, see a revision history for your code, and revert to previous versions of a project when needed. With source code management systems, you can collaborate on code with your team, isolate your work until it is ready, and quickly trouble-shoot issues by identifying who made changes and what the changes were. Source code management systems help streamline the development process and provide a centralized source for all your code.
+
+[What is Source Control? Amazon](https://aws.amazon.com/devops/source-control/)
+
+[https://www.youtube.com/watch?v=K0mgc3efx-A](Intro to Source Control: A Must-Have Tool for Programmers)
+
+> **Task duration: 1 days.** <sub>For practicing the tutorial.</sub>
+
 ### `STEP 2` - RPA Awareness Training
 
 ![](img/robot-hd-wallpaper_1053401_45.jpg)
