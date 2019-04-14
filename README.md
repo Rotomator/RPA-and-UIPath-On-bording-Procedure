@@ -81,7 +81,7 @@ Whether you are writing a simple application on your own or collaborating on a l
 
 [What is Source Control? Amazon](https://aws.amazon.com/devops/source-control/)
 
-[https://www.youtube.com/watch?v=K0mgc3efx-A](Intro to Source Control: A Must-Have Tool for Programmers)
+[Intro to Source Control: A Must-Have Tool for Programmers](https://www.youtube.com/watch?v=K0mgc3efx-A)
 
 > **Task duration: 1 days.** <sub>For practicing the tutorial.</sub>
 
