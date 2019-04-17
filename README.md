@@ -83,7 +83,7 @@ Whether you are writing a simple application on your own or collaborating on a l
 
 [Intro to Source Control: A Must-Have Tool for Programmers](https://www.youtube.com/watch?v=K0mgc3efx-A)
 
-> **Task duration: 1 days.** <sub>For practicing the tutorial.</sub>
+> **Task duration: 1 days.** <sub>For Source Control Awareness.</sub>
 
 ### `STEP 2` - RPA Awareness Training
 
