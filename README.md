@@ -71,7 +71,7 @@ We recommend using VB.NET Online Compiler like [dotnetfiddle](https://dotnetfidd
 
 > **Task duration: 1 days.** <sub>For practicing the tutorial.</sub> 
 
-#### `Optional Tutorial`: What is Source Control?
+####  What is Source Control?
 
 > **Source control** (or **version control**) is the practice of tracking and managing changes to code. Source control management (SCM) systems provide a running history of code development and help to resolve conflicts when merging contributions from multiple sources.
 
@@ -82,6 +82,12 @@ Whether you are writing a simple application on your own or collaborating on a l
 [What is Source Control? Amazon](https://aws.amazon.com/devops/source-control/)
 
 [Intro to Source Control: A Must-Have Tool for Programmers](https://www.youtube.com/watch?v=K0mgc3efx-A)
+
+**Team Foundation Server (TFS)**
+
+Team Foundation Server (commonly abbreviated to TFS) is a Microsoft product that provides source code management (either with Team Foundation Version Control or Git), reporting, requirements management, project management (for both agile software development and waterfall teams), automated builds, lab management, testing and release management capabilities. It covers the entire application lifecycle, and enables DevOps capabilities.[1] TFS can be used as a back-end to numerous integrated development environments (IDEs) but is tailored for Microsoft Visual Studio and Eclipse on all platforms.[2]
+
+[What is TFS?](https://www.youtube.com/watch?v=WxQFrbkoxrw)
 
 > **Task duration: 1 days.** <sub>For Source Control Awareness.</sub>
 
